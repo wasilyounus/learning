@@ -1,1 +1,1 @@
-# Learning Git and this world. Breathing IN o2, breathing out co2.
+# Learning Git and this world. Breathing IN O2, Breathing OUT CO2.
